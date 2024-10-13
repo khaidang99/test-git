@@ -5,3 +5,4 @@ let feat3 = 1
 let feat4 = 1
 let feat5 = 1
 let con = 1
+let feat6 = 1
